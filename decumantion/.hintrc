@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "axe/text-alternatives": "off",
+    "meta-viewport": "off",
+    "detect-css-reflows/layout": "off",
+    "highest-available-document-mode": "off",
+    "button-type": "off"
+  }
+}
